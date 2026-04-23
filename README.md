@@ -6,10 +6,6 @@ Pre-built firmware for the **Snapmaker U1 touch mirror + Wayne-Box filament-drye
 
 This firmware line started from [suchmememanyskill/ESP32-Snapmaker-U1-display-mirror](https://github.com/suchmememanyskill/ESP32-Snapmaker-U1-display-mirror). It has since been substantially rewritten and extended, but credit remains to the original author for creating the initial Snapmaker U1 mirroring project.
 
-The actively maintained fork and corresponding source for these release binaries is:
-
-- [jerrylion77/SanapTouch-and-Wayne-Box-Dryer](https://github.com/jerrylion77/SanapTouch-and-Wayne-Box-Dryer)
-
 ## What this firmware does
 
 - Mirrors the Snapmaker U1 printer screen over WiFi with touch support (tap the mirror, the printer responds).
@@ -102,4 +98,3 @@ These binaries are built from GPL-licensed source code. See:
 
 - [`LICENSE`](./LICENSE) for GPL-3.0 text.
 - [`LICENSES.md`](./LICENSES.md) for third-party notices.
-- Source license and corresponding source code at [jerrylion77/SanapTouch-and-Wayne-Box-Dryer](https://github.com/jerrylion77/SanapTouch-and-Wayne-Box-Dryer).
