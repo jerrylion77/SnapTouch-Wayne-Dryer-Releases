@@ -21,7 +21,15 @@ This firmware binary includes components from the following open-source projects
 
 ## Firmware itself
 
-The firmware source code in this project is **private / all rights reserved** by the author. Only the compiled binary is distributed via this repository's Releases.
+The firmware corresponding to these binaries is provided in the public source repository:
+
+- https://github.com/jerrylion77/SanapTouch-and-Wayne-Box-Dryer
+
+Project lineage attribution:
+
+- Original Snapmaker U1 mirror foundation by https://github.com/suchmememanyskill/ESP32-Snapmaker-U1-display-mirror
+
+License for firmware source is documented in the source repository (`LICENSE`).
 
 ---
 
