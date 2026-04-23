@@ -1,0 +1,23 @@
+SnapTouch & Wayne Box Dryer - GPL Written Offer
+================================================
+
+For any recipient of a firmware binary distributed from this repository,
+SnapTouch will provide the complete corresponding source code for that binary,
+including build scripts and other files required by GNU GPL v3.0.
+
+How to request source:
+- Email: hello@snaptouch.net
+- Subject: Source Request - SnapTouch Firmware - <release tag>
+- Include: the release tag/version and binary filename you received
+
+Availability term:
+- This written offer is valid for at least three (3) years from the date
+  each covered binary is distributed.
+
+Cost:
+- Source will be provided at no charge, except reasonable costs of physical
+  media/shipping if a non-electronic method is specifically requested.
+
+Delivery method:
+- Source will normally be delivered electronically.
+
